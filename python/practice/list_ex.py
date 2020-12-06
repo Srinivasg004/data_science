@@ -1,0 +1,10 @@
+names = ['Srinu','Rama','Hari']
+print(names)
+names.append('Rao')
+print(names)
+names.insert(0,'Abhi')
+print(names)
+names.sort()
+print(names)
+names.remove('Abhi')
+print(names)
